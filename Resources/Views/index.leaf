@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ste Prescott | iOS Team Lead @ Sky</title>
+    <link rel="stylesheet" href="/styles/app.css">
+  </head>
+  <body>
+    <div class="content">
+        <img src="/images/animoji.jpg">
+    </div>
+  </body>
+</html>
